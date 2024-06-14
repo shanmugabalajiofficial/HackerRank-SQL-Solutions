@@ -1,5 +1,5 @@
-# HackerRank-Python-Solutions
-This repository contains solutions to various Practice problems of SQL on HackerRank.
+# HackerRank-SQL-Solutions
+This repository contains the solutions to various problems of SQL on HackerRank. Each problem is solved using MySQL.
 
 # Structure of the Repository
 This Respository contains folders named with Problem statement and solutions for the problems as SQL file in the respective folders.
