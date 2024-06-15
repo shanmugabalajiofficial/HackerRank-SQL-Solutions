@@ -1,4 +1,4 @@
-#Revising the Select Query II
+-- #Revising the Select Query II --
 
 
 SELECT NAME FROM CITY WHERE POPULATION > 120000 AND COUNTRYCODE ="USA"
